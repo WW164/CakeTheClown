@@ -65,7 +65,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CleanUpCake.cs" />
+    <Compile Include="Assets\Scripts\ClownHitBehavior.cs" />
     <Compile Include="Assets\Scripts\CollisionBehavior.cs" />
+    <Compile Include="Assets\Scripts\ResetClown.cs" />
     <Compile Include="Assets\Scripts\ThrowCake.cs" />
     <Reference Include="UnityEngine">
       <HintPath>I:/programs/unity/Editor/2019.4.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
